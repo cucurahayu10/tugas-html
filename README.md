@@ -1,4 +1,4 @@
-<html>
+1. <html>
 Elemen dasar yang menjadi wadah bagi seluruh isi dokumen. Tag ini memberitahu browser bahwa isi di dalamnya adalah kode HTML.
 
 2. <head>
