@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Halaman Web Pertamaku</title>
+</head>
+
+<body>
+
+    <div>
+        <h1>Selamat Datang di Website Saya!</h1>
+    </div>
+
+    <h3>Belajar Tag HTML Dasar</h3>
+
+    <p>Ini adalah contoh paragraf. Kata <span>HTML</span> ini dibungkus menggunakan tag span.</p>
+
+    <img src="https://via.placeholder.com/300x150" alt="Gambar Contoh Placeholder">
+
+    <p>Jika ingin belajar lebih lanjut, kamu bisa mencari tutorial di <a href="https://www.google.com" target="_blank">Google</a>.</p>
+
+</body>
+</html>
